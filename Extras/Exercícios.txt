@@ -1,0 +1,89 @@
+Revisão
+
+Questão 1 - Transforme as classes do dataset em 0,1 e 2 usando a função apply.
+Você não deve escrever de maneira explicita os nomes dos possíveis valores.
+
+Questão 2 - Como estão distribuídas as classes na base? Comente a partir de um gráfico.
+
+Questão 3 - Faça o gráfico boxplot pra cada variável da base com y. Qual a conclusão?
+
+Questão 4 - Crie um gráfico com as duas variáveis mais dependentes de y e comente.
+
+Questão 5 - Crie um gráfico com as duas variáveis mais independentes de y e comente.
+
+
+
+Manipulação de DataFrames
+1 - 
+a)Crie uma base de dados com compradores.
+A base de compradores deve ter o ID do comprador (aleatório) e a idade do comprador. 
+
+b)Você deve gerar os IDs dos carros a partir da base Carros.
+
+c) Depois, gere a base de vendas aletaoriamente, ou seja, cada comprador com seus
+respectivos carros e as quantidades
+import random
+1 (aleatório) 33 (Entre 18 e 90)
+2 34 
+3 54
+4 18
+5 98
+
+1 audi
+2 audi
+3 audi
+4 chevrolet
+d) Junte as bases de dados de vendas com as de carros.
+
+e) Criar a nova coluna chamada nome do carro 
+(coluna nova = make, Id_do_carro+_+quantidade)
+f) A base de vendas agora só precisa ter o ID do comprador e  o nome do carro
+
+
+
+
+f) Crie uma lista de dataframes para cada linha fazendo referência a uma compra 
+
+f) Cada coluna vai ser o nome do carro e o valor da célula vai ser a quantidde 
+de carros que o comprador (linha) comprou daquele carro (coluna). 
+
+
+
+comprador 0 comprou audi3_4
+comprador 1 comprou audi3_4
+comprador 1 comprou chevrolet1_3
+
+comprador   audi3
+0             4
+comprador   audi3
+1             4
+comprador   chevrolet1
+1             3
+
+
+
+
+
+
+g) Armazene em um valor de uma lista chamada lista_df.
+
+h) Depois disso, crie um DataFrame único usando o comando pd.concat(lista_df),
+preenchendo seus valores nulos com zeros.
+
+i) Agrupe pra que cada linha seja as comprar de um comprador
+
+
+
+
+
+
+Correlação
+
+1 - Calcule o índice de correlação entre as variáveis do Iris Dataset e o target.
+Justifique com texto e gráficos.
+
+Aplique um algoritmo de agrupamento ao Iris Dataset. 
+Comparando com a base rotulada, qual foi o desempenho dele?
+
+Aplique os algoritmos de classificação ao Iris Dataset.
+
