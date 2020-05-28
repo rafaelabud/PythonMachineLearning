@@ -1,0 +1,13 @@
+Revisão
+
+Questão 1 - Transforme as classes do dataset em 0,1 e 2 usando a função apply.
+Você não deve escrever de maneira explicita os nomes dos possíveis valores.
+
+Questão 2 - Como estão distribuídas as classes na base? Comente a partir de um gráfico.
+
+Questão 3 - Faça o gráfico boxplot pra cada variável da base com y. Qual a conclusão?
+
+Questão 4 - Crie um gráfico com as duas variáveis mais dependentes de y e comente.
+
+Questão 5 - Crie um gráfico com as duas variáveis mais independentes de y e comente.
+

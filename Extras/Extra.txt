@@ -1,0 +1,6 @@
+De quais dados você precisa para responder as 3 primeiras hipóteses?
+aspiration, riskiness e body
+city mpg, riskiness
+doors, length
+Qual caminho você percorreria?
+Por que você não consegue responder às duas últimas hipóteses?

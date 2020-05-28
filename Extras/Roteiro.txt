@@ -1,0 +1,44 @@
+Roteiro:
+1 - Falar de tabela de contingencia
+2 - PPT Ciência de dados
+3 - Material Oficial
+4 - Classificação e regressão
+
+4.1 - aplica decision tree iris
+
+
+
+4.2 - cria rótulo pra carros com vendas e aplica árvore de decisão
+
+4.3 - compara decision tree com random forest para iris
+
+4.4 - compara decision tree com random forest para carros
+
+
+
+4.5 - aplica regressão (linear e decision tree) em diabetes
+
+5 - Agrupamento
+
+5.1 - aplica agrupamento iris e compara com decision tree
+
+
+
+
+
+
+
+
+
+
+
+
+6 - aplica processo em get married
+	Verificar dados nulos
+	Limpar dados nulos		
+	Criar hipóteses
+	Fazer análise exploratória
+	Criar algoritmos (Decision Tree e Random Forest)
+	Comparar algoritmos
+	Analisar algoritmos
+	
